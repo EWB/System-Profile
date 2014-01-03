@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the System Profile feature.
+ */
+
+include_once 'system_profile.features.inc';
